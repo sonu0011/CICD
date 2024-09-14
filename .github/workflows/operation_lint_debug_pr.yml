@@ -11,3 +11,7 @@ jobs:
   test:
     name: Test Debug Variant
     uses: ./github/workflows/job_test_debug.yml
+
+  deployement:
+    name: Test Debug Variant
+    uses: ./github/workflows/firebase_deploy.yml
