@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351545079645",
+    "project_id": "cicd-e3848",
+    "storage_bucket": "cicd-e3848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351545079645:android:e1adad55fa4ef8251adab4",
+        "android_client_info": {
+          "package_name": "com.sonu.cicd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGRg77AJyc5dyrcI5VWNnk7eFL9_AWw-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
