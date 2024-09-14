@@ -19,6 +19,7 @@ class MainActivity : ComponentActivity() {
             CICDTheme {
                 // A surface container using the 'background' color from the theme
                 // new code addffffing for testingdddd
+                // test commit to check firebase auto deploy
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
