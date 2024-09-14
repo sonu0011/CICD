@@ -5,13 +5,6 @@ on:
   workflow_call:
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Run s single line script
-        run: echo hello, world
-  
   lint:
     runs-on: ubuntu-latest
     steps:
