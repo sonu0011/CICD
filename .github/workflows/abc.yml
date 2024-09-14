@@ -1,3 +1,4 @@
+name: Lint Debug
 on:
   push:
     branches: [ master ]
