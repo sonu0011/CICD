@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             CICDTheme {
                 // A surface container using the 'background' color from the theme
-                // new code adding for testingdddd
+                // new code addffffing for testingdddd
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
