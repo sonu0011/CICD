@@ -15,3 +15,7 @@ jobs:
   deployement:
     name: Test Debug Variant
     uses: ./github/workflows/firebase_deploy.yml
+
+  codeAnalysis:
+    name: Analysis
+    uses: ./github/workflows/sonar.yml
